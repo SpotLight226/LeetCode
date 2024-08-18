@@ -1,4 +1,4 @@
-SELECT IFNULL(EU.unique_id, null) AS unique_id,
+SELECT IFNULL(EU.unique_id, null) AS unique_id, -- unique_id가 null이면 null로 표기
        E.name
 FROM Employees AS E
 LEFT JOIN EmployeeUNI AS EU
