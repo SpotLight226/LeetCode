@@ -13,4 +13,12 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/SpotLight226/LeetCode/tree/master/0058-length-of-last-word) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/SpotLight226/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/SpotLight226/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
