@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SpotLight226/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/SpotLight226/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/SpotLight226/LeetCode/tree/master/0058-length-of-last-word) |
 ## Array
 |  |
@@ -32,4 +33,8 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/SpotLight226/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SpotLight226/LeetCode/tree/master/0013-roman-to-integer) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SpotLight226/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
