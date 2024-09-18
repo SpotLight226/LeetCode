@@ -14,6 +14,7 @@
 | [1135-customers-who-bought-all-products](https://github.com/SpotLight226/LeetCode/tree/master/1135-customers-who-bought-all-products) |
 | [1155-product-sales-analysis-iii](https://github.com/SpotLight226/LeetCode/tree/master/1155-product-sales-analysis-iii) |
 | [1182-game-play-analysis-iv](https://github.com/SpotLight226/LeetCode/tree/master/1182-game-play-analysis-iv) |
+| [1268-market-analysis-i](https://github.com/SpotLight226/LeetCode/tree/master/1268-market-analysis-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/SpotLight226/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/SpotLight226/LeetCode/tree/master/1317-monthly-transactions-i) |
 | [1480-movie-rating](https://github.com/SpotLight226/LeetCode/tree/master/1480-movie-rating) |
