@@ -1,6 +1,6 @@
 SELECT U.user_id AS buyer_id,
        U.join_date,
-       COUNT(O.order_id) AS orders_in_2019 
+       COUNT(O.order_date) AS orders_in_2019 
 FROM Users AS U
 LEFT JOIN Orders AS O
        ON U.user_id = O.buyer_id
