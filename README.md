@@ -18,6 +18,7 @@
 | [1278-product-price-at-a-given-date](https://github.com/SpotLight226/LeetCode/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/SpotLight226/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/SpotLight226/LeetCode/tree/master/1317-monthly-transactions-i) |
+| [1452-restaurant-growth](https://github.com/SpotLight226/LeetCode/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/SpotLight226/LeetCode/tree/master/1480-movie-rating) |
 | [2057-count-salary-categories](https://github.com/SpotLight226/LeetCode/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/SpotLight226/LeetCode/tree/master/2087-confirmation-rate) |
