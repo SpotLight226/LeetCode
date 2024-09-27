@@ -51,6 +51,7 @@
 | [0013-roman-to-integer](https://github.com/SpotLight226/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/SpotLight226/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SpotLight226/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/SpotLight226/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SpotLight226/LeetCode/tree/master/0070-climbing-stairs) |
 ## Trie
 |  |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SpotLight226/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/SpotLight226/LeetCode/tree/master/0069-sqrtx) |
 ## Dynamic Programming
 |  |
 | ------- |
