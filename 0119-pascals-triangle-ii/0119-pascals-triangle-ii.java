@@ -1,5 +1,6 @@
 class Solution {
     public List<Integer> getRow(int rowIndex) {
+        /* 모든 파스칼 삼각형을 만드는 방법
         // 파스칼 삼각형 만들기
         List<List<Integer>> pascal = new ArrayList<>();
         List<Integer> row = new ArrayList<>();
@@ -22,5 +23,19 @@ class Solution {
         }
 
         return pascal.get(rowIndex); // 해당 행 리턴
+        */
+
+        // 해당 행만 만드는 방법
+        List<Integer> row = new ArrayList<>();
+        row.add(1); // 모든 행 시작은 1
+
+        for(int i = 1; i < rowIndex + 1; i++){
+            for(int j = i - 1; j > 0; j--){
+                row.set(j, row.get(j) + row.get(j - 1));
+            }
+            row.add(1);
+        }
+
+        return row;
     }
 }
