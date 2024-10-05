@@ -42,11 +42,13 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SpotLight226/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/SpotLight226/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/SpotLight226/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SpotLight226/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SpotLight226/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/SpotLight226/LeetCode/tree/master/0013-roman-to-integer) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SpotLight226/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -127,4 +129,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SpotLight226/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Counting
+|  |
+| ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SpotLight226/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 <!---LeetCode Topics End-->
