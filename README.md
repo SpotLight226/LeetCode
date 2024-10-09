@@ -50,6 +50,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SpotLight226/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/SpotLight226/LeetCode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/SpotLight226/LeetCode/tree/master/0202-happy-number) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SpotLight226/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Math
 |  |
@@ -60,6 +61,7 @@
 | [0067-add-binary](https://github.com/SpotLight226/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SpotLight226/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SpotLight226/LeetCode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/SpotLight226/LeetCode/tree/master/0202-happy-number) |
 ## Trie
 |  |
 | ------- |
@@ -75,6 +77,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SpotLight226/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SpotLight226/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SpotLight226/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/SpotLight226/LeetCode/tree/master/0202-happy-number) |
 ## String Matching
 |  |
 | ------- |
