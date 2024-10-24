@@ -66,6 +66,7 @@
 | [0069-sqrtx](https://github.com/SpotLight226/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SpotLight226/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/SpotLight226/LeetCode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/SpotLight226/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SpotLight226/LeetCode/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
@@ -97,6 +98,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SpotLight226/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/SpotLight226/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SpotLight226/LeetCode/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
@@ -151,4 +153,8 @@
 |  |
 | ------- |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SpotLight226/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/SpotLight226/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
