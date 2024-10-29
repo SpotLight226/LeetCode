@@ -25,6 +25,7 @@
 | [1452-restaurant-growth](https://github.com/SpotLight226/LeetCode/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/SpotLight226/LeetCode/tree/master/1480-movie-rating) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/SpotLight226/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1827-invalid-tweets](https://github.com/SpotLight226/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/SpotLight226/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2057-count-salary-categories](https://github.com/SpotLight226/LeetCode/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/SpotLight226/LeetCode/tree/master/2087-confirmation-rate) |
