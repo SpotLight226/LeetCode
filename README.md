@@ -9,6 +9,7 @@
 | [0184-department-highest-salary](https://github.com/SpotLight226/LeetCode/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/SpotLight226/LeetCode/tree/master/0185-department-top-three-salaries) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/SpotLight226/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0584-find-customer-referee](https://github.com/SpotLight226/LeetCode/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/SpotLight226/LeetCode/tree/master/0585-investments-in-2016) |
 | [0601-human-traffic-of-stadium](https://github.com/SpotLight226/LeetCode/tree/master/0601-human-traffic-of-stadium) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/SpotLight226/LeetCode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
