@@ -1,6 +1,7 @@
 /**
  * @return {Function}
  */
+ /*
 var createHelloWorld = function() {
     let world = "Hello World";
 
@@ -8,6 +9,11 @@ var createHelloWorld = function() {
         return world
     }
 };
+*/
+
+var createHelloWorld = () => {
+    return () => "Hello World";
+}
 
 /**
  * const f = createHelloWorld();
