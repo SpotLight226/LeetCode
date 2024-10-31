@@ -42,6 +42,7 @@
 | [0067-add-binary](https://github.com/SpotLight226/LeetCode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/SpotLight226/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0412-fizz-buzz](https://github.com/SpotLight226/LeetCode/tree/master/0412-fizz-buzz) |
+| [1894-merge-strings-alternately](https://github.com/SpotLight226/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0027-remove-element](https://github.com/SpotLight226/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SpotLight226/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/SpotLight226/LeetCode/tree/master/0202-happy-number) |
+| [1894-merge-strings-alternately](https://github.com/SpotLight226/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String Matching
 |  |
 | ------- |
