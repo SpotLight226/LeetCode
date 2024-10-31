@@ -42,6 +42,7 @@
 | [0067-add-binary](https://github.com/SpotLight226/LeetCode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/SpotLight226/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0412-fizz-buzz](https://github.com/SpotLight226/LeetCode/tree/master/0412-fizz-buzz) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/SpotLight226/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/SpotLight226/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
@@ -76,6 +77,7 @@
 | [0202-happy-number](https://github.com/SpotLight226/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/SpotLight226/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SpotLight226/LeetCode/tree/master/0412-fizz-buzz) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/SpotLight226/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Trie
 |  |
 | ------- |
