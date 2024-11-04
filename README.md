@@ -16,6 +16,7 @@
 | [0595-big-countries](https://github.com/SpotLight226/LeetCode/tree/master/0595-big-countries) |
 | [0601-human-traffic-of-stadium](https://github.com/SpotLight226/LeetCode/tree/master/0601-human-traffic-of-stadium) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/SpotLight226/LeetCode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
+| [0620-not-boring-movies](https://github.com/SpotLight226/LeetCode/tree/master/0620-not-boring-movies) |
 | [1135-customers-who-bought-all-products](https://github.com/SpotLight226/LeetCode/tree/master/1135-customers-who-bought-all-products) |
 | [1153-product-sales-analysis-i](https://github.com/SpotLight226/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1155-product-sales-analysis-iii](https://github.com/SpotLight226/LeetCode/tree/master/1155-product-sales-analysis-iii) |
