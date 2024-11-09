@@ -1,5 +1,6 @@
 class Solution {
     public int maxArea(int[] height) {
+        /*
         int l = 0; // 왼쪽 포인터
         int r = height.length - 1; // 오른쪽 포인터
 
@@ -27,6 +28,28 @@ class Solution {
                 }
                 r--;
 
+            }
+        }
+
+        return max;
+        */
+
+        // 위 코드를 간단하게 Math 메서드 사용
+        int l = 0;
+        int r = height.length - 1;
+
+        int max = Integer.MIN_VALUE;
+
+        while (l < r) {
+            // Math메서드로 max 더 큰 값을 선택
+            // max 와 min메서드를 사용하여 왼쪽, 오른쪽 길이 중 작은 것 * (오른쪽 포인터 - 왼쪽 포인터)
+            max = Math.max(max, Math.min(height[l], height[r]) * (r - l));
+
+            // 왼쪽 길이가 오른쪽 보다 작으면 l++
+            if (height[l] < height[r]) {
+                l++;
+            } else { // 아니면 r--
+                r--;
             }
         }
 
