@@ -26,6 +26,8 @@ class Solution {
         return count;
         */
 
+        // 밑의 과정이 추가 되면 더 빨라짐
+        // nums의 값 중 k 보다 크다면 더했을 때 당연히 k보다 클테니 0으로 바꾸는 과정
         for(int i = 0; i < nums.length; i++) {
             if(nums[i] >= k) {
                 nums[i] = 0;
