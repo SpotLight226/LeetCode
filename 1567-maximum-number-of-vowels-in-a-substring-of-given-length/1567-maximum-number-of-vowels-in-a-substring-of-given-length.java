@@ -27,10 +27,7 @@ class Solution {
     
     // 모음 확인
     public int checkVowel(char c) {
-        if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u') {
-            return 1;
-        }
-        return 0;
+        return (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u') ? 1 : 0;
     }
 
 }
