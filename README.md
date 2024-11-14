@@ -40,6 +40,7 @@
 | [1908-recyclable-and-low-fat-products](https://github.com/SpotLight226/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2057-count-salary-categories](https://github.com/SpotLight226/LeetCode/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/SpotLight226/LeetCode/tree/master/2087-confirmation-rate) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/SpotLight226/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## String
 |  |
 | ------- |
