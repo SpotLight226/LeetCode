@@ -39,6 +39,7 @@
 | [1773-percentage-of-users-attended-a-contest](https://github.com/SpotLight226/LeetCode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/SpotLight226/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/SpotLight226/LeetCode/tree/master/1827-invalid-tweets) |
+| [1877-find-followers-count](https://github.com/SpotLight226/LeetCode/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/SpotLight226/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2057-count-salary-categories](https://github.com/SpotLight226/LeetCode/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/SpotLight226/LeetCode/tree/master/2087-confirmation-rate) |
