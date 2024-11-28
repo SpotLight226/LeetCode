@@ -87,6 +87,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/SpotLight226/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/SpotLight226/LeetCode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/SpotLight226/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1319-unique-number-of-occurrences](https://github.com/SpotLight226/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SpotLight226/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/SpotLight226/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SpotLight226/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -100,6 +101,7 @@
 | [0013-roman-to-integer](https://github.com/SpotLight226/LeetCode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/SpotLight226/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/SpotLight226/LeetCode/tree/master/0205-isomorphic-strings) |
+| [1319-unique-number-of-occurrences](https://github.com/SpotLight226/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SpotLight226/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SpotLight226/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SpotLight226/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
