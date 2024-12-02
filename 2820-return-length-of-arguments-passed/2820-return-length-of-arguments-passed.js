@@ -8,6 +8,7 @@ var argumentsLength = function(...args) {
 };
 */
 
+// args의 길이만큼을 리턴
 function argumentsLength() {
     return arguments.length;
 }
