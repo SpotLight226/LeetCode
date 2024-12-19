@@ -5,20 +5,19 @@
  */
 var join = function(arr1, arr2) {
     
-    const map = new Map();
-
-    for(const obj of arr1) {
-        map.set(obj.id, {...obj});
-    }
-
-    for(const obj of arr2) {
-        const exist = map.get(obj.id);
-        if(exist) {
-            Object.assign(exist, obj);
+    const result = {};
+    for (let i = 0; i < arr1.length; i++) {
+        result[arr1[i].id] = arr1[i];
+    } 
+    for (let i = 0; i < arr2.length; i++) {
+        if (result[arr2[i].id]) {
+            for (const key in arr2[i]) {
+                result[arr2[i].id][key] = arr2[i][key];  
+            }
         } else {
-            map.set(obj.id, {...obj});
+            result[arr2[i].id] = arr2[i];
         }
-    }
+    } 
 
-    return [...map.values()].sort((a,b) => a.id - b.id)
+    return Object.values(result);
 };
