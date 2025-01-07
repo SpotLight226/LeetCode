@@ -72,6 +72,7 @@
 | [0205-isomorphic-strings](https://github.com/SpotLight226/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SpotLight226/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/SpotLight226/LeetCode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/SpotLight226/LeetCode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/SpotLight226/LeetCode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/SpotLight226/LeetCode/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SpotLight226/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -146,6 +147,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/SpotLight226/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SpotLight226/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0394-decode-string](https://github.com/SpotLight226/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/SpotLight226/LeetCode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/SpotLight226/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Two Pointers
@@ -298,4 +300,5 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/SpotLight226/LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/SpotLight226/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/SpotLight226/LeetCode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
