@@ -75,6 +75,7 @@
 | [0394-decode-string](https://github.com/SpotLight226/LeetCode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/SpotLight226/LeetCode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/SpotLight226/LeetCode/tree/master/0443-string-compression) |
+| [0649-dota2-senate](https://github.com/SpotLight226/LeetCode/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SpotLight226/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SpotLight226/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SpotLight226/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -255,6 +256,7 @@
 | [0011-container-with-most-water](https://github.com/SpotLight226/LeetCode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/SpotLight226/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/SpotLight226/LeetCode/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/SpotLight226/LeetCode/tree/master/0649-dota2-senate) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -281,6 +283,7 @@
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/SpotLight226/LeetCode/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/SpotLight226/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
