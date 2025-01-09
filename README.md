@@ -166,6 +166,7 @@
 | [0443-string-compression](https://github.com/SpotLight226/LeetCode/tree/master/0443-string-compression) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SpotLight226/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/SpotLight226/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SpotLight226/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -298,6 +299,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/SpotLight226/LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/SpotLight226/LeetCode/tree/master/0206-reverse-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SpotLight226/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
