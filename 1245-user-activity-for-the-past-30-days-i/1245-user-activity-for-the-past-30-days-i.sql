@@ -1,6 +1,7 @@
-SELECT activity_date AS day,
-       COUNT(DISTINCT user_id) AS active_users
+# Write your MySQL query statement below
+SELECT activity_date AS day, -- 날짜
+       COUNT(DISTINCT(user_id)) AS active_users -- 각 날짜에 유저의 수 (중복 제외)
 FROM Activity
--- 조건에 activity_date 에서 2019-07-27 을 포함하기 위해서 DATE_SUB에서 INTERVAL 29 DAY을 준다 
-WHERE DATE(activity_date) BETWEEN DATE_SUB('2019-07-27', INTERVAL 29 DAY) AND '2019-07-27'
+-- 조건 : 활동 날짜가 6-27 부터 7-27 까지
+WHERE (activity_date > "2019-06-27" AND activity_date <= "2019-07-27") 
 GROUP BY activity_date
