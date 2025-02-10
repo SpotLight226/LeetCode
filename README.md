@@ -84,6 +84,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/SpotLight226/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/SpotLight226/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/SpotLight226/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [3447-clear-digits](https://github.com/SpotLight226/LeetCode/tree/master/3447-clear-digits) |
 ## Array
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | [0394-decode-string](https://github.com/SpotLight226/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/SpotLight226/LeetCode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/SpotLight226/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [3447-clear-digits](https://github.com/SpotLight226/LeetCode/tree/master/3447-clear-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -192,6 +194,7 @@
 | [2058-concatenation-of-array](https://github.com/SpotLight226/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/SpotLight226/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/SpotLight226/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [3447-clear-digits](https://github.com/SpotLight226/LeetCode/tree/master/3447-clear-digits) |
 ## Binary Search
 |  |
 | ------- |
