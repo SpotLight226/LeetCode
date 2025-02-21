@@ -1,18 +1,17 @@
--- COUNT 에 IF 문을 넣어서 조건 맞을 때와 틀릴 때의 카운트를 설정할수 있다
--- COUNT는 0도 카운트에 넣기 때문에 0으로 넣으면 안되고 NULL로 해야 한다
--- 각기 다른 조건들로 카운트하기 위해서 각 조건 별로 COUNT를 해주는 SELECT 문을 UNOIN 한다
+# Write your MySQL query statement below
+-- 각 범위의 급여를 나누어 COUNT 에 조건 IF 를 사용해 개수를 세고, 합친다(UNION)
 SELECT 'Low Salary' AS category,
-        COUNT(IF(income < 20000, 1, NULL)) AS accounts_count
+        COUNT(IF(income < 20000, 1, null)) AS accounts_count
 FROM Accounts
 
-UNION
+UNION ALL
 
 SELECT 'Average Salary' AS category,
-        COUNT(IF(income >= 20000 AND income <= 50000, 1, NULL)) AS accounts_count
+        COUNT(IF(income >= 20000 and income <= 50000, 1, null)) AS accounts_count
 FROM Accounts
 
-UNION
+UNION ALL
 
 SELECT 'High Salary' AS category,
-        COUNT(IF(income > 50000, 1, NULL)) AS accounts_count
+        COUNT(IF(income > 50000, 1, null)) AS accounts_count
 FROM Accounts
