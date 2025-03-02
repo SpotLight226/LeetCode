@@ -122,6 +122,7 @@
 | [2058-concatenation-of-array](https://github.com/SpotLight226/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/SpotLight226/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/SpotLight226/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SpotLight226/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,6 +142,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/SpotLight226/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SpotLight226/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/SpotLight226/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SpotLight226/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Math
 |  |
 | ------- |
@@ -192,6 +194,7 @@
 | [1894-merge-strings-alternately](https://github.com/SpotLight226/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SpotLight226/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/SpotLight226/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SpotLight226/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String Matching
 |  |
 | ------- |
