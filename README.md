@@ -120,6 +120,7 @@
 | [1833-find-the-highest-altitude](https://github.com/SpotLight226/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SpotLight226/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2058-concatenation-of-array](https://github.com/SpotLight226/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/SpotLight226/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2428-equal-row-and-column-pairs](https://github.com/SpotLight226/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/SpotLight226/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SpotLight226/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -193,6 +194,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/SpotLight226/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/SpotLight226/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SpotLight226/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/SpotLight226/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/SpotLight226/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SpotLight226/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String Matching
@@ -213,6 +215,7 @@
 | [0412-fizz-buzz](https://github.com/SpotLight226/LeetCode/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/SpotLight226/LeetCode/tree/master/0735-asteroid-collision) |
 | [2058-concatenation-of-array](https://github.com/SpotLight226/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/SpotLight226/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2428-equal-row-and-column-pairs](https://github.com/SpotLight226/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/SpotLight226/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/SpotLight226/LeetCode/tree/master/2551-apply-operations-to-an-array) |
