@@ -162,6 +162,7 @@
 | [0412-fizz-buzz](https://github.com/SpotLight226/LeetCode/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SpotLight226/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SpotLight226/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2610-closest-prime-numbers-in-range](https://github.com/SpotLight226/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/SpotLight226/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Trie
 |  |
@@ -320,6 +321,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SpotLight226/LeetCode/tree/master/0258-add-digits) |
+| [2610-closest-prime-numbers-in-range](https://github.com/SpotLight226/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 ## Greedy
 |  |
 | ------- |
