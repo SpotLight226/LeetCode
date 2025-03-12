@@ -1,5 +1,6 @@
 class Solution {
     public int maximumCount(int[] nums) {
+        // nums의 개수가 2000으로 작아서 브루트 포스 와 이진 검색의 큰 차이가 없는 듯 
         /*
         // 브루트 포스 
         int negative = 0;
