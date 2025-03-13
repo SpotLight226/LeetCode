@@ -131,6 +131,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SpotLight226/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/SpotLight226/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/SpotLight226/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/SpotLight226/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -238,6 +239,7 @@
 | [0069-sqrtx](https://github.com/SpotLight226/LeetCode/tree/master/0069-sqrtx) |
 | [1046-max-consecutive-ones-iii](https://github.com/SpotLight226/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SpotLight226/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/SpotLight226/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -346,6 +348,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/SpotLight226/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SpotLight226/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/SpotLight226/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [3643-zero-array-transformation-ii](https://github.com/SpotLight226/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
 |  |
 | ------- |
