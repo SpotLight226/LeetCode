@@ -80,6 +80,7 @@
 | [0443-string-compression](https://github.com/SpotLight226/LeetCode/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/SpotLight226/LeetCode/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SpotLight226/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/SpotLight226/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1524-string-matching-in-an-array](https://github.com/SpotLight226/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SpotLight226/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SpotLight226/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
