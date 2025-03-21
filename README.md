@@ -87,6 +87,7 @@
 | [1894-merge-strings-alternately](https://github.com/SpotLight226/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SpotLight226/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/SpotLight226/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/SpotLight226/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/SpotLight226/LeetCode/tree/master/3447-clear-digits) |
 ## Array
 |  |
@@ -135,6 +136,7 @@
 | [2665-minimum-time-to-repair-cars](https://github.com/SpotLight226/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SpotLight226/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/SpotLight226/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/SpotLight226/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3483-alternating-groups-ii](https://github.com/SpotLight226/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/SpotLight226/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
@@ -181,6 +183,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SpotLight226/LeetCode/tree/master/0014-longest-common-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/SpotLight226/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Stack
 |  |
 | ------- |
@@ -219,6 +222,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SpotLight226/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1524-string-matching-in-an-array](https://github.com/SpotLight226/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/SpotLight226/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -423,4 +427,12 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SpotLight226/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/SpotLight226/LeetCode/tree/master/0022-generate-parentheses) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/SpotLight226/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/SpotLight226/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
