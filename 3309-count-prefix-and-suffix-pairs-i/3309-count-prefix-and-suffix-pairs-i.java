@@ -20,10 +20,7 @@ class Solution {
                 String str1 = words[i];
                 String str2 = words[j];
 
-                // 첫 단어가 같아야 접두사 가능
-                if(str1.charAt(0) != str2.charAt(0)) {
-                    continue;
-                }
+                
 
                 if(check(str1, str2)) {
                     result++;
