@@ -79,6 +79,7 @@
 | [0412-fizz-buzz](https://github.com/SpotLight226/LeetCode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/SpotLight226/LeetCode/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/SpotLight226/LeetCode/tree/master/0649-dota2-senate) |
+| [0768-partition-labels](https://github.com/SpotLight226/LeetCode/tree/master/0768-partition-labels) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SpotLight226/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/SpotLight226/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1524-string-matching-in-an-array](https://github.com/SpotLight226/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -158,6 +159,7 @@
 | [0169-majority-element](https://github.com/SpotLight226/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SpotLight226/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/SpotLight226/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0768-partition-labels](https://github.com/SpotLight226/LeetCode/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SpotLight226/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1319-unique-number-of-occurrences](https://github.com/SpotLight226/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SpotLight226/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -221,6 +223,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/SpotLight226/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/SpotLight226/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/SpotLight226/LeetCode/tree/master/0443-string-compression) |
+| [0768-partition-labels](https://github.com/SpotLight226/LeetCode/tree/master/0768-partition-labels) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SpotLight226/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/SpotLight226/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SpotLight226/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -366,6 +369,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/SpotLight226/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/SpotLight226/LeetCode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/SpotLight226/LeetCode/tree/master/0649-dota2-senate) |
+| [0768-partition-labels](https://github.com/SpotLight226/LeetCode/tree/master/0768-partition-labels) |
 ## Prefix Sum
 |  |
 | ------- |
