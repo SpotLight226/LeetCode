@@ -3,7 +3,7 @@ WITH T1 AS (SELECT requester_id AS id,
                    accepter_id AS acc
             FROM RequestAccepted),
 
-     T2 AS (SELECT accepter_id AS id
+     T2 AS (SELECT accepter_id AS id,
                    requester_id AS acc
             FROM RequestAccepted)
 
