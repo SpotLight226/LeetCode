@@ -1,10 +1,14 @@
-SELECT D.name AS Department,
-       E.name AS Employee,
-       E.salary AS Salary
-FROM Employee AS E
-JOIN Department AS D
-  ON E.departmentId = D.id
-WHERE (SELECT COUNT(DISTINCT salary)
-       FROM Employee AS E2
-       WHERE E2.departmentId = E.departmentId
-         AND E2.salary >= E.salary) <= 3
+# Write your MySQL query statement below
+WITH rank_temp AS (SELECT e.salary AS salary,
+                          e.name AS employee,
+                          d.name AS department,
+                          DENSE_RANK() OVER(PARTITION BY e.departmentId ORDER BY salary DESC) AS rnk
+                   FROM Employee AS e
+                   LEFT JOIN Department AS d
+                   ON e.departmentId = d.id)
+
+SELECT department,
+       employee,
+       salary
+FROM rank_temp
+WHERE rnk <= 3
