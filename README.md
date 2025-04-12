@@ -83,6 +83,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/SpotLight226/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/SpotLight226/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1524-string-matching-in-an-array](https://github.com/SpotLight226/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/SpotLight226/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SpotLight226/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SpotLight226/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/SpotLight226/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -389,6 +390,7 @@
 | [0238-product-of-array-except-self](https://github.com/SpotLight226/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/SpotLight226/LeetCode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/SpotLight226/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/SpotLight226/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SpotLight226/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/SpotLight226/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [3643-zero-array-transformation-ii](https://github.com/SpotLight226/LeetCode/tree/master/3643-zero-array-transformation-ii) |
