@@ -133,6 +133,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SpotLight226/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SpotLight226/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/SpotLight226/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/SpotLight226/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2058-concatenation-of-array](https://github.com/SpotLight226/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/SpotLight226/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SpotLight226/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -196,6 +197,7 @@
 | [0412-fizz-buzz](https://github.com/SpotLight226/LeetCode/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SpotLight226/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SpotLight226/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/SpotLight226/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/SpotLight226/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/SpotLight226/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2998-count-symmetric-integers](https://github.com/SpotLight226/LeetCode/tree/master/2998-count-symmetric-integers) |
@@ -251,6 +253,7 @@
 | [0067-add-binary](https://github.com/SpotLight226/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/SpotLight226/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/SpotLight226/LeetCode/tree/master/0191-number-of-1-bits) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/SpotLight226/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SpotLight226/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/SpotLight226/LeetCode/tree/master/2478-longest-nice-subarray) |
 ## Simulation
@@ -462,6 +465,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SpotLight226/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/SpotLight226/LeetCode/tree/master/0022-generate-parentheses) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/SpotLight226/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -474,5 +478,10 @@
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/SpotLight226/LeetCode/tree/master/1656-count-good-triplets) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/SpotLight226/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/SpotLight226/LeetCode/tree/master/2998-count-symmetric-integers) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/SpotLight226/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
