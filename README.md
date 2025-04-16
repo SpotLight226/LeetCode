@@ -142,6 +142,7 @@
 | [2478-longest-nice-subarray](https://github.com/SpotLight226/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/SpotLight226/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SpotLight226/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/SpotLight226/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2665-minimum-time-to-repair-cars](https://github.com/SpotLight226/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/SpotLight226/LeetCode/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SpotLight226/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -177,6 +178,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SpotLight226/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SpotLight226/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/SpotLight226/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/SpotLight226/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SpotLight226/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SpotLight226/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/SpotLight226/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -418,6 +420,7 @@
 | [1755-defuse-the-bomb](https://github.com/SpotLight226/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SpotLight226/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/SpotLight226/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/SpotLight226/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3483-alternating-groups-ii](https://github.com/SpotLight226/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Design
 |  |
