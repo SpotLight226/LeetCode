@@ -136,6 +136,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SpotLight226/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2058-concatenation-of-array](https://github.com/SpotLight226/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/SpotLight226/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2249-count-the-hidden-sequences](https://github.com/SpotLight226/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SpotLight226/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SpotLight226/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SpotLight226/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -403,6 +404,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SpotLight226/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SpotLight226/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/SpotLight226/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [2249-count-the-hidden-sequences](https://github.com/SpotLight226/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [3643-zero-array-transformation-ii](https://github.com/SpotLight226/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
 |  |
