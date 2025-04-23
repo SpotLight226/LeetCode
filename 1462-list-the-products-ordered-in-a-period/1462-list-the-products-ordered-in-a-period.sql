@@ -1,11 +1,13 @@
-SELECT P.product_name,
-       SUM(O.unit) AS unit
-FROM Products AS P
-JOIN Orders AS O
-  ON P.product_id = O.product_id
-  -- 조건에 월은 2월, 연도는 2020
-WHERE MONTH(O.order_date) = '02'
-  AND YEAR(O.order_date) = '2020'
-GROUP BY O.product_id
--- 그룹화한 후 판매 개수의 합이 100 이상인 것
-HAVING SUM(O.unit) >= 100
+# Write your MySQL query statement below
+WITH feb_Order AS (SELECT product_id,
+                          SUM(unit) AS unit
+                   FROM Orders
+                   WHERE order_date LIKE '2020-02-%'
+                   GROUP BY product_id
+                   HAVING SUM(unit) >= 100)
+
+SELECT product_name,
+       unit
+FROM Products AS p
+JOIN feb_Order AS f
+  ON p.product_id = f.product_id
