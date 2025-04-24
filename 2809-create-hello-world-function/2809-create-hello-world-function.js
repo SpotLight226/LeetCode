@@ -1,19 +1,12 @@
 /**
  * @return {Function}
  */
- /*
 var createHelloWorld = function() {
-    let world = "Hello World";
-
+    
     return function() {
-        return world
+        return "Hello World"
     }
 };
-*/
-
-var createHelloWorld = () => {
-    return () => "Hello World";
-}
 
 /**
  * const f = createHelloWorld();
