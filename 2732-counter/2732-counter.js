@@ -2,12 +2,13 @@
  * @param {number} n
  * @return {Function} counter
  */
-function createCounter(n){
-    let count = n;
+var createCounter = function(n) {
+    let start = n;
+
     return function() {
-        return count++;
-    }
-}
+        return start++;
+    };
+};
 
 /** 
  * const counter = createCounter(10)
