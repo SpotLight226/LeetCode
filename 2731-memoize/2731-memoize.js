@@ -3,7 +3,6 @@
  * @return {Function}
  */
 function memoize(fn) {
-    
     const cache = {};
 
     return function(...args) {
@@ -16,7 +15,7 @@ function memoize(fn) {
         const result = fn.apply(this, args);
         cache[key] = result;
 
-        return result;    
+        return result;
     }
 }
 
