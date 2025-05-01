@@ -3,16 +3,16 @@
  * @return {Function}
  */
 var once = function(fn) {
-    let beenCall = false;
-    let answer;
+    let result;
+    let hasBeenCalled = false;
 
     return function(...args){
-        if(!beenCall){
-            answer = fn(...args);
-            beenCall = true;
-            return answer;
+        if(!hasBeenCalled) {
+            result = fn(...args);
+            hasBeenCalled = true;
+            return result;
         } else {
-            return undefined
+            return undefined;
         }
     }
 };
