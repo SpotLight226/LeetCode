@@ -4,17 +4,12 @@
  * @param {number} t
  * @return {Function}
  */
- // cancelFn는 함수로 clearTimeout이라는 기능을 가진다
 var cancellable = function(fn, args, t) {
-    const cancelFn = function (){
-        clearTimeout(timer);
-    };
+    var timeout = setTimeout(() => fn(...args), t);
 
-    const timer = setTimeout(() => {
-        fn(...args)
-    }, t);
+    var cancelFn = () => clearTimeout(timeout);
 
-    return cancelFn;
+    return cancelFn
 };
 
 /**
