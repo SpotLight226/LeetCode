@@ -1,19 +1,18 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        // 음수 일때는 아님
-        if (x < 0) {
+       if(x < 0 || (x % 10 == 0 && x != 0)) {
             return false;
-        }
+       }
 
-        int temp = x; // 계산 위해서 임시 값
-        int reverse = 0; // 뒤집은 값
-        
-        while (temp > 0) {
-            int digit = temp % 10; // 뒷 자리르 떼어내기
-            reverse = reverse * 10 + digit; // 뒤집은 값에서 이전 값의 위치를 하나 올리고 떼어낸 뒷 자리를 더한다
-            temp /= 10; // 임시 값을 업데이트
-        }
+       int reverse = 0;
 
-        return reverse == x; // 뒤집은 값과 같은 지 확인해서 true or false 리턴
+        // reverse 가 x의 길이 반 이상을 하지 않게 범위 지정
+       while(x > reverse) {
+            // 121 = > reverse = 1, x = 12 => reverse = 12, x = 1
+            reverse = reverse * 10 + x % 10;
+            x /= 10;
+       }
+        // 1 == 12 (X) || 1 == 12 / 10 (1) (O) -> return true;
+       return x == reverse || x == reverse / 10;
     }
 }
