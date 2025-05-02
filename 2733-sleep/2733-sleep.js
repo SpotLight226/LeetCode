@@ -3,7 +3,7 @@
  * @return {Promise}
  */
 async function sleep(millis) {
-    // prommiste로 resolve를 setTimeout으로 millis를 대기하다가 출력
+    // await로 대기하다가, setTimeout 으로 millis초 후에 생성되는 promise를 만들어 해결
     await new Promise(resolve => setTimeout(resolve, millis));
 }
 
