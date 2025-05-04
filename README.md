@@ -119,6 +119,7 @@
 | [0735-asteroid-collision](https://github.com/SpotLight226/LeetCode/tree/master/0735-asteroid-collision) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SpotLight226/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/SpotLight226/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/SpotLight226/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/SpotLight226/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SpotLight226/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SpotLight226/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -176,6 +177,7 @@
 | [0768-partition-labels](https://github.com/SpotLight226/LeetCode/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SpotLight226/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SpotLight226/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/SpotLight226/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/SpotLight226/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SpotLight226/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SpotLight226/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -382,6 +384,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SpotLight226/LeetCode/tree/master/0169-majority-element) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/SpotLight226/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SpotLight226/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SpotLight226/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SpotLight226/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
