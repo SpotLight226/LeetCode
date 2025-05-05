@@ -5,9 +5,8 @@
  * @return {Function}
  */
 var cancellable = function(fn, args, t) {
-    fn(...args); // fn에 args을 넣고 호출
-
-    let timer = setInterval(() => fn(...args), t); // t(시간)마다 setInterval로 fn을 호출
+    fn(...args);
+    let timer = setInterval(() => fn(...args), t);
 
     let cancelFn = () => clearInterval(timer);
     return cancelFn;
