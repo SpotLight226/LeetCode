@@ -329,6 +329,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/SpotLight226/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/SpotLight226/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SpotLight226/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2384-root-equals-sum-of-children](https://github.com/SpotLight226/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -360,6 +361,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/SpotLight226/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/SpotLight226/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SpotLight226/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2384-root-equals-sum-of-children](https://github.com/SpotLight226/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
 | ------- |
