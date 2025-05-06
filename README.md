@@ -74,6 +74,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/SpotLight226/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/SpotLight226/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SpotLight226/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/SpotLight226/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/SpotLight226/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/SpotLight226/LeetCode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/SpotLight226/LeetCode/tree/master/0412-fizz-buzz) |
@@ -176,6 +177,7 @@
 | [0169-majority-element](https://github.com/SpotLight226/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SpotLight226/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/SpotLight226/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0383-ransom-note](https://github.com/SpotLight226/LeetCode/tree/master/0383-ransom-note) |
 | [0768-partition-labels](https://github.com/SpotLight226/LeetCode/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SpotLight226/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SpotLight226/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -392,6 +394,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SpotLight226/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/SpotLight226/LeetCode/tree/master/0383-ransom-note) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SpotLight226/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SpotLight226/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SpotLight226/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
