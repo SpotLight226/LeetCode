@@ -3,21 +3,21 @@
  * @return {void}
  */
 var ArrayWrapper = function(nums) {
-    this.arr = nums;
+    this.nums = nums;
 };
 
 /**
  * @return {number}
  */
 ArrayWrapper.prototype.valueOf = function() {
-    return this.arr.reduce((pre, cur) => pre + cur, 0);
+    return this.nums.reduce((sum, num) => sum + num, 0);
 }
 
 /**
  * @return {string}
  */
 ArrayWrapper.prototype.toString = function() {
-    return JSON.stringify(this.arr);
+    return `[${this.nums.join(',')}]`;
 }
 
 /**
