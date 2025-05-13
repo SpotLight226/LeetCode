@@ -1,4 +1,5 @@
 class Solution {
+    /*
     // modulo 연산 => 안전한 덧셈 연산
     private static int mod = 1000000007; // 표준 모듈러 연산값
     // 보통 (a + b) % mod만 해도 충분
@@ -39,6 +40,29 @@ class Solution {
         int result = 0;
         for(int n : nums) {
             result = mod_add(result, n);
+        }
+
+        return result;
+    }
+    */
+
+    // dp 연산
+    private static int mod = 1000000007; // 표준 모듈러 연산값
+
+    public int lengthAfterTransformations(String s, int t) {
+        int[] dp = new int[t + 26];
+        // 알파벳이 하나 씩 있는 빈도 배열 만들기
+        for(int i = 0; i < 26; i++) {
+            dp[i] = 1;
+        }
+        // 
+        for(int i = 26; i < t + 26; i++) {
+            dp[i] = (dp[i - 26] + dp[i - 25]) % mod;
+        }
+
+        int result = 0;
+        for(char c : s.toCharArray()) {
+            result = (result + dp[c - 'a' + t]) % mod;
         }
 
         return result;
