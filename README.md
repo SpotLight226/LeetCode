@@ -93,6 +93,7 @@
 | [2470-removing-stars-from-a-string](https://github.com/SpotLight226/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SpotLight226/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/SpotLight226/LeetCode/tree/master/3447-clear-digits) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/SpotLight226/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Array
 |  |
 | ------- |
@@ -197,6 +198,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SpotLight226/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SpotLight226/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/SpotLight226/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/SpotLight226/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Math
 |  |
 | ------- |
@@ -222,6 +224,7 @@
 | [2610-closest-prime-numbers-in-range](https://github.com/SpotLight226/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2998-count-symmetric-integers](https://github.com/SpotLight226/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/SpotLight226/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/SpotLight226/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Trie
 |  |
 | ------- |
@@ -319,6 +322,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SpotLight226/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SpotLight226/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SpotLight226/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/SpotLight226/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Memoization
 |  |
 | ------- |
@@ -404,6 +408,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SpotLight226/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SpotLight226/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SpotLight226/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/SpotLight226/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Number Theory
 |  |
 | ------- |
