@@ -91,6 +91,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SpotLight226/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SpotLight226/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/SpotLight226/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SpotLight226/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SpotLight226/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/SpotLight226/LeetCode/tree/master/3447-clear-digits) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SpotLight226/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -159,6 +160,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/SpotLight226/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SpotLight226/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SpotLight226/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SpotLight226/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/SpotLight226/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/SpotLight226/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/SpotLight226/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -322,6 +324,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SpotLight226/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SpotLight226/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SpotLight226/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SpotLight226/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SpotLight226/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Memoization
 |  |
@@ -426,6 +429,7 @@
 | [0605-can-place-flowers](https://github.com/SpotLight226/LeetCode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/SpotLight226/LeetCode/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/SpotLight226/LeetCode/tree/master/0768-partition-labels) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SpotLight226/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Prefix Sum
 |  |
 | ------- |
