@@ -18,21 +18,24 @@ class Solution {
         return true;
         */
 
-        int l = 0;
+        // 양 끝의 인덱스
+        int l = 0; 
         int r = s.length() - 1;
 
         while(l < r) {
-            char left = s.charAt(l);
-            char right = s.charAt(r);
+            char left = s.charAt(l); // 왼쪽
+            char right = s.charAt(r); // 오른쪽
 
+            // 왼쪽, 오른쪽 글자가 공백 또는 숫자가 아닌지 확인
             if(!Character.isLetterOrDigit(left)) {
                 l++;
             } else if (!Character.isLetterOrDigit(right)) {
                 r--;
-            } else {
+            } else { // 둘 다 공백 또는 숫자가 아니면 왼쪽, 오른쪽 글자를 비교
                 if (Character.toLowerCase(left) != Character.toLowerCase(right)) {
                     return false;
                 }
+                // 다음 글자로
                 l++;
                 r--;
             }
