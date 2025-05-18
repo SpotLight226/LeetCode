@@ -284,6 +284,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/SpotLight226/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/SpotLight226/LeetCode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/SpotLight226/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SpotLight226/LeetCode/tree/master/0191-number-of-1-bits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SpotLight226/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SpotLight226/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -402,6 +403,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SpotLight226/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/SpotLight226/LeetCode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/SpotLight226/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SpotLight226/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Binary Search Tree
 |  |
