@@ -114,6 +114,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SpotLight226/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SpotLight226/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SpotLight226/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/SpotLight226/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SpotLight226/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/SpotLight226/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/SpotLight226/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -184,6 +185,7 @@
 | [0169-majority-element](https://github.com/SpotLight226/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SpotLight226/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/SpotLight226/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/SpotLight226/LeetCode/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/SpotLight226/LeetCode/tree/master/0383-ransom-note) |
 | [0768-partition-labels](https://github.com/SpotLight226/LeetCode/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SpotLight226/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -455,6 +457,7 @@
 | [0075-sort-colors](https://github.com/SpotLight226/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SpotLight226/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SpotLight226/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/SpotLight226/LeetCode/tree/master/0217-contains-duplicate) |
 | [0368-largest-divisible-subset](https://github.com/SpotLight226/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SpotLight226/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SpotLight226/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
