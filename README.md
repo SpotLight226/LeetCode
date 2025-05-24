@@ -73,6 +73,7 @@
 | [0067-add-binary](https://github.com/SpotLight226/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/SpotLight226/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SpotLight226/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/SpotLight226/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/SpotLight226/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SpotLight226/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/SpotLight226/LeetCode/tree/master/0383-ransom-note) |
@@ -216,6 +217,7 @@
 | [0067-add-binary](https://github.com/SpotLight226/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SpotLight226/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SpotLight226/LeetCode/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/SpotLight226/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/SpotLight226/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/SpotLight226/LeetCode/tree/master/0258-add-digits) |
 | [0368-largest-divisible-subset](https://github.com/SpotLight226/LeetCode/tree/master/0368-largest-divisible-subset) |
