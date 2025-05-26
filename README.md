@@ -95,6 +95,7 @@
 | [2470-removing-stars-from-a-string](https://github.com/SpotLight226/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SpotLight226/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SpotLight226/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3379-score-of-a-string](https://github.com/SpotLight226/LeetCode/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/SpotLight226/LeetCode/tree/master/3447-clear-digits) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SpotLight226/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Array
