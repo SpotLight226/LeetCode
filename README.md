@@ -129,6 +129,7 @@
 | [0228-summary-ranges](https://github.com/SpotLight226/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/SpotLight226/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/SpotLight226/LeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/SpotLight226/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/SpotLight226/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/SpotLight226/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/SpotLight226/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -502,6 +503,7 @@
 | [0217-contains-duplicate](https://github.com/SpotLight226/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SpotLight226/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SpotLight226/LeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/SpotLight226/LeetCode/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/SpotLight226/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SpotLight226/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SpotLight226/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -608,4 +610,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SpotLight226/LeetCode/tree/master/0292-nim-game) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/SpotLight226/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
