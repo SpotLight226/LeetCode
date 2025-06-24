@@ -1,21 +1,27 @@
 class Solution {
     public String longestCommonPrefix(String[] strs) {
-         if (strs == null || strs.length == 0) {
-            return null;
-        }
+        
+        String prefix = strs[0]; // 초기 접두사
+        int preLen = prefix.length(); // 접두사 길이
 
-        String str = strs[0]; // 첫 번째 문자열이 기준
+        for(int i = 1; i < strs.length; i++) {
+            String str = strs[i]; // 다음 단어
 
-        for (int i = 1; i < strs.length; i++) {
-            // indexOf(str) 로 기준 문자열의 시작 지점이 0인지를 확인 하여 접두사인지 확인
-            while (strs[i].indexOf(str) != 0) { // 0이 아니라면 접두사가 아님
-                str = str.substring(0, str.length() - 1); // 기준 문자열에서 뒤의 한글자 제거
-                if (str.isEmpty()) { // 기준 문자열이 공백이되면 접두사가 없음
+            // 다음 단어의 길이가 접두사의 길이보다 작거나, 접두사가 다음 단어를 접두사 길이 만큼 잘랐을 때, 똑같지 않다면
+            while(preLen > str.length() || !prefix.equals(str.substring(0, preLen))) {
+                preLen--; // 접두사의 길이를 -1
+
+                // 접두사의 길이가 0이라면, 동일한 접두사가 없다는 뜻이므로 "" 리턴
+                if(preLen == 0) {
                     return "";
                 }
+
+                // 접두사 갱신
+                prefix = prefix.substring(0, preLen);
             }
         }
 
-        return str;
+        return prefix;
+
     }
 }
