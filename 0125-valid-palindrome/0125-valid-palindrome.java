@@ -31,7 +31,7 @@ class Solution {
                 l++;
             } else if (!Character.isLetterOrDigit(right)) {
                 r--;
-            } else { // 둘 다 공백 또는 숫자가 아니면 왼쪽, 오른쪽 글자를 비교
+            } else { // 둘 다 공백 또는 숫자가 아니면 왼쪽, 오른쪽 글자를 비교, 대문자일 수 있으니 소문자로 변환해서
                 if (Character.toLowerCase(left) != Character.toLowerCase(right)) {
                     return false;
                 }
