@@ -1,17 +1,20 @@
 class Solution {
     public boolean isSubsequence(String s, String t) {
-        int sp = 0; // s의 포인터
-        int tp = 0; // t의 포인터
+        int sIdx = 0; // s 의 문자 위치
+        int tIdx = 0; // t 의 문자 위치
 
-        // 포인터의 범위를 벗어나지 않을 때 까지
-        while (sp < s.length() && tp < t.length()) {
-            // s에서 sp위치에 있는 문자와 t에서 tp위치에 있는 문자가 같으면 sp를 +1
-            if (s.charAt(sp) == t.charAt(tp)) { 
-                sp++;
+        // sIdx, tIdx 가 범위를 벗어나지 않을 때 까지
+        while(sIdx < s.length() && tIdx < t.length()) {
+            // s 와 t 의 문자가 같다면 s 의 문자 위치 이동
+            if(s.charAt(sIdx) == t.charAt(tIdx)) {
+                sIdx++;
             }
-            tp++; // tp는 계속 1 씩 증가하며 동일한 문자 찾기
+
+            // 아니면 t 의 문자 위치를 이동해서 다음 문자 비교
+            tIdx++;
         }
-        // sp가 s의 길이와 같다는 것은 t에서 문자를 삭제해 s를 만들 수 있다는 것
-        return sp == s.length(); 
+
+        // 반복문을 다 진행하고, sIdx 가 s의 길이와 같다면 t에 모든 문자가 있다는 뜻
+        return sIdx == s.length();
     }
 }
