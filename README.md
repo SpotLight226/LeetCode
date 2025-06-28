@@ -77,6 +77,7 @@
 | [0205-isomorphic-strings](https://github.com/SpotLight226/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SpotLight226/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/SpotLight226/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/SpotLight226/LeetCode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SpotLight226/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/SpotLight226/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/SpotLight226/LeetCode/tree/master/0392-is-subsequence) |
@@ -203,6 +204,7 @@
 | [0219-contains-duplicate-ii](https://github.com/SpotLight226/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/SpotLight226/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SpotLight226/LeetCode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/SpotLight226/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/SpotLight226/LeetCode/tree/master/0383-ransom-note) |
 | [0768-partition-labels](https://github.com/SpotLight226/LeetCode/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SpotLight226/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
