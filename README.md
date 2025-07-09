@@ -134,6 +134,7 @@
 | [0283-move-zeroes](https://github.com/SpotLight226/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/SpotLight226/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/SpotLight226/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SpotLight226/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0605-can-place-flowers](https://github.com/SpotLight226/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/SpotLight226/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/SpotLight226/LeetCode/tree/master/0724-find-pivot-index) |
@@ -205,6 +206,7 @@
 | [0242-valid-anagram](https://github.com/SpotLight226/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SpotLight226/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/SpotLight226/LeetCode/tree/master/0290-word-pattern) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SpotLight226/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/SpotLight226/LeetCode/tree/master/0383-ransom-note) |
 | [0768-partition-labels](https://github.com/SpotLight226/LeetCode/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SpotLight226/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -243,6 +245,7 @@
 | [0268-missing-number](https://github.com/SpotLight226/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/SpotLight226/LeetCode/tree/master/0292-nim-game) |
 | [0368-largest-divisible-subset](https://github.com/SpotLight226/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SpotLight226/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/SpotLight226/LeetCode/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SpotLight226/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SpotLight226/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -531,6 +534,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SpotLight226/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SpotLight226/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SpotLight226/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0969-number-of-recent-calls](https://github.com/SpotLight226/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
@@ -616,4 +620,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/SpotLight226/LeetCode/tree/master/0274-h-index) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/SpotLight226/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
