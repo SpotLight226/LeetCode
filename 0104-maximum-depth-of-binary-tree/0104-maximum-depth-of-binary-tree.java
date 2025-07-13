@@ -15,10 +15,8 @@
  */
 class Solution {
     public int maxDepth(TreeNode root) {
-        if(root == null) {
-            return 0;
-        }
-        // 왼쪽과 오른쪽의 깊이에서 더 큰 것에 +1
+        if (root == null) return 0;
+
         return 1 + Math.max(maxDepth(root.left), maxDepth(root.right));
     }
 }
