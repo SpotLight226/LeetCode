@@ -15,12 +15,10 @@
  */
 class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
-        if(p == null && q == null) return true; // 둘 다 null 이라면 같다
+        // 노드 자체가 없다면, 같음
+        if(p == null || q == null) return p == q;
 
-        if(p == null || q == null) return false; // 둘 중 하나가 null이라면 다르다
-
-        if(p.val != q.val) return false; // 시작 노드가 다르면 false
-
-        return isSameTree(p.left, q.left) && isSameTree(p.right, q.right); // 왼쪽, 오른쪽 노드를 비교
+        // 트리 노드 값 비교하고, 왼쪽, 오른쪽 비교
+        return p.val == q.val && isSameTree(p.left, q.left) && isSameTree(p.right, q.right);
     }
 }
