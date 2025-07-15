@@ -15,26 +15,17 @@
  */
 class Solution {
     public TreeNode invertTree(TreeNode root) {
-        // 재귀 방식
-        // 노드가 null이면 리턴 null
-        if(root == null) {
-            return null;
-        }
+        if(root == null) return null;
 
-        // 왼쪽, 오른쪽 노드가 null이 아니라면, 재귀로 각 노드를 넣는다
-        if(root.left != null) {
-            invertTree(root.left);
-        }
-
-        if(root.right != null) {
-            invertTree(root.right);
-        }
-
-        // 노드 위치 변경
+        // 임시 노드에 left 값을 저장 후, 자리 바꾸기
         TreeNode temp = root.left;
         root.left = root.right;
         root.right = temp;
 
-        return root; // 리턴
+        // 메서드에 left, right 를 넣어서 root 취급해서 재귀 
+        invertTree(root.left);
+        invertTree(root.right);
+
+        return root;
     }
 }
