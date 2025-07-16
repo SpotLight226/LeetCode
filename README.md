@@ -399,6 +399,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/SpotLight226/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/SpotLight226/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SpotLight226/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/SpotLight226/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SpotLight226/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/SpotLight226/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SpotLight226/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -417,6 +418,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/SpotLight226/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SpotLight226/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SpotLight226/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/SpotLight226/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0871-keys-and-rooms](https://github.com/SpotLight226/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/SpotLight226/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SpotLight226/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -436,6 +438,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/SpotLight226/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/SpotLight226/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SpotLight226/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/SpotLight226/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SpotLight226/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/SpotLight226/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SpotLight226/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -449,6 +452,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/SpotLight226/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SpotLight226/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/SpotLight226/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/SpotLight226/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0871-keys-and-rooms](https://github.com/SpotLight226/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SpotLight226/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Divide and Conquer
@@ -462,6 +466,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SpotLight226/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/SpotLight226/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SpotLight226/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Counting
 |  |
