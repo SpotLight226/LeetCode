@@ -21,10 +21,12 @@ class Solution {
         if(root.left == null && root.right == null) {
             return targetSum == root.val;
         }
-
+        
+        // 다음 루트에 따라, target에서 현재 값을 뺀 값과 같은지 확인 (재귀)
         boolean leftSum = hasPathSum(root.left, targetSum - root.val);
         boolean rightSum = hasPathSum(root.right, targetSum - root.val);
 
+        // leftSum 과 rightSum 이 target과 같은지 확인
         return (leftSum || rightSum);
     }
 }
