@@ -14,22 +14,20 @@
  * }
  */
 class Solution {
-
-    public TreeNode checkTree(int[] nums, int s, int e){
-        if(s > e) return null;
-
-        int m = s + (e - s) / 2; // 중간 값(반올림을 막기위해 s + (e - s) / 2)
-        TreeNode node = new TreeNode(nums[m]);
-        node.left = checkTree(nums, s, m - 1);
-        node.right = checkTree(nums, m + 1, e);
-        return node;
+    public TreeNode sortedArrayToBST(int[] nums) {
+        return sol(nums, 0, nums.length - 1);
     }
 
+    TreeNode sol(int[] nums, int l, int r) {
+        if(l > r) return null;
 
-    public TreeNode sortedArrayToBST(int[] nums) {
-        int l = nums.length;
-        if(l == 0) return null;
-        
-        return checkTree(nums, 0, l - 1);
+        int m = l + (r - l) / 2;
+
+        TreeNode node = new TreeNode(nums[m]);
+
+        node.left = sol(nums, l, m - 1);
+        node.right = sol(nums, m + 1, r);
+
+        return node;
     }
 }
