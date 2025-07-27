@@ -124,6 +124,7 @@
 | [0119-pascals-triangle-ii](https://github.com/SpotLight226/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SpotLight226/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SpotLight226/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/SpotLight226/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/SpotLight226/LeetCode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/SpotLight226/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SpotLight226/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -201,6 +202,7 @@
 | [0013-roman-to-integer](https://github.com/SpotLight226/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SpotLight226/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/SpotLight226/LeetCode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/SpotLight226/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/SpotLight226/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SpotLight226/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/SpotLight226/LeetCode/tree/master/0169-majority-element) |
@@ -638,4 +640,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/SpotLight226/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SpotLight226/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
