@@ -12,7 +12,7 @@ var createHelloWorld = function() {
     }
     */
 
-    // 그냥 리턴
+    // 그냥 리턴 : 얘가 더 빠름
     return function() {
         return "Hello World";
     }
