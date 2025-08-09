@@ -2,6 +2,7 @@
  * @return {Function}
  */
 var createHelloWorld = function() {
+    /*
     // 문장 
     const str = "Hello World";
     
@@ -9,6 +10,14 @@ var createHelloWorld = function() {
     return function() {
         return str;
     }
+    */
+
+    // 그냥 리턴
+    return function() {
+        return "Hello World";
+    }
+
+
 };
 
 /**
