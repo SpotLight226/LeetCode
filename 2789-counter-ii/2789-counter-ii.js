@@ -3,28 +3,12 @@
  * @return { increment: Function, decrement: Function, reset: Function }
  */
 var createCounter = function(init) {
-    // let count = init;
-
-    // function increment() {
-    //     return ++count;
-    // }
-
-    // function decrement() {
-    //     return --count;
-    // }
-
-    // function reset() {
-    //     return (count = init);
-    // }
-
-    // return {increment, decrement, reset};
-
-    let count = init;
-
+    // 화살표 함수
+    let present = init
     return {
-        increment: () => ++count,
-        decrement: () => --count,
-        reset : () => count = init,
+        increment:()=> ++present,
+        decrement:()=> --present,
+        reset:()=> present = init,
     }
 };
 
