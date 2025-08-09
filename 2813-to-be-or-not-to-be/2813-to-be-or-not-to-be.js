@@ -4,20 +4,22 @@
  */
 var expect = function(val) {
     return {
-        // toBe : 처음들어오는 val와 val2가 같으면 true, 아니라면 error("Not Equal")을 리턴
-        toBe: (val2) => {
-            if(val !== val2){
-                throw new Error("Not Equal");
-            }else{
-                return true;
+        // toBe 호출 시,
+        toBe: function(otherVal) {
+            // toBe 의 otherVal가 function 의 val 과 같다면
+            if(val === otherVal) {
+                return true; // true 리턴
+            } else { // 다르다면
+                throw new Error("Not Equal"); // 에러를 생성하여 리턴 (에러의 내용은 Not Equal)
             }
         },
-        // notToBe : 처음 들어온 val와 val2가 같으면 error("Equal")을 리턴, 아니라면 true리턴
-        notToBe: (val2) => {
-            if(val === val2){
-                throw new Error("Equal");
-            }else{
-                return true;
+        // notToBe 호출 시,
+        notToBe: function(otherVal) {
+            // notToBe 의 otherVal 가 function 의 val 과 다르다면
+            if(val !== otherVal) {
+                return true; // true 리턴
+            } else { // 같다면
+                throw new Error("Equal"); // 에러를 생성하여 리턴 (에러의 내용은 Equal)
             }
         }
     }
