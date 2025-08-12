@@ -3,6 +3,7 @@
  * @return {number}
  */
 var argumentsLength = function(...args) {
+    // args(배열)의 길이
     return args.length;
 };
 
