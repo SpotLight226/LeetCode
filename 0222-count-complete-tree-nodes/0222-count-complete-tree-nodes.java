@@ -14,6 +14,9 @@
  * }
  */
 class Solution {
+    // 트리를 세는 메서드
+    // 현재 노드가 null 이라면, 추가한 현재 노드를 빼고(-1)
+    // 아니라면, 현재 노드 넣고(+1), 옆의 노드로 이동
     int height(TreeNode root) {
         return root == null ? -1 : 1 + height(root.left);
     }
