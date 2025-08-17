@@ -14,7 +14,9 @@ var addTwoPromises = async function(promise1, promise2) {
         ([v1, v2]) => v1 + v2 //  Promise의 결과값 v1과 v2를 더한 값을 반환
     );
     */
-
+    
+    // promise 2개가 들어올 때까지 대기하다가, 2개가 들어오면, 각각 v1, v2에 값을 할당하고
+    // v1 + v2 해서 리턴
     const [v1, v2] = await Promise.all([promise1, promise2]);
     return v1 + v2;
 };
