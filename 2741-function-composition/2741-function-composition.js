@@ -3,25 +3,15 @@
  * @return {Function}
  */
 var compose = function(functions) {
-    /*
-    // for문 사용 => 실제 서비스
-    return function(x) {
-        // 오른 쪽에서 왼쪽으로 가니까, 가장 오른쪽의 인덱스부터 시작
-        for(var i = functions.length - 1; i >= 0; i--) {
-            x = functions[i](x);
-        }
-
-        return x;
-    }
-    */
-
-    // reduceRight 사용 => 연습용/리팩토링/깔끔한 함수형 스타일
-    if(functions.length == 0) {
+    // functions 에 내용이 없다면, 그냥 x를 리턴
+    if(functions.length === 0) {
         return function(x) {
             return x;
         }
     }
-
+    
+    // reduceRight => 오른쪽 -> 왼쪽
+    // functions 의 요소를 오른쪽부터 왼쪽으로 각 함수를 진행
     return functions.reduceRight(function(prevFn, nextFn) {
         return function(x) {
             return nextFn(prevFn(x));
