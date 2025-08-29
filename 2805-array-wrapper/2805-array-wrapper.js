@@ -2,7 +2,6 @@
  * @param {number[]} nums
  * @return {void}
  */
- // nums 를 지정
 var ArrayWrapper = function(nums) {
     this.nums = nums;
 };
@@ -10,15 +9,13 @@ var ArrayWrapper = function(nums) {
 /**
  * @return {number}
  */
- // 더하기
 ArrayWrapper.prototype.valueOf = function() {
-    return this.nums.reduce((sum, num) => sum + num, 0);
+    return this.nums.reduce((sum, num) => sum + num, 0);1
 }
 
 /**
  * @return {string}
  */
- // 각 숫자를 , 로 구분지어서 묶기
 ArrayWrapper.prototype.toString = function() {
     return `[${this.nums.join(',')}]`;
 }
