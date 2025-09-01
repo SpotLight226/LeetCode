@@ -6,6 +6,10 @@
 var timeLimit = function(fn, t) {
     return async function(...args) {
         // Promise.race: 여러 Promise 중 가장 먼저 성공 또는 실패되는 값을 반환
+        // race 로 fn(...args) 와 시간 제한 Promise 를 동시 실행
+        // fn 먼저 끝나면 그 결과 반환
+        // 제한 시간 지나면 Time Limit Exceeded 로 reject
+        // try/catch 로 fn 내부에서 발생하는 동기적 예외도 잡아 Promise 거부로 전달
         return Promise.race([
 
             // 원래 함수 실행
@@ -19,7 +23,7 @@ var timeLimit = function(fn, t) {
                 }
             })(),
 
-            // 시간 초과용 Promise
+            // 시간 제한 Promise
             new Promise((_, reject) => {
                 setTimeout(() => {
                     reject("Time Limit Exceeded");
