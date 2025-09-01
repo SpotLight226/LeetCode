@@ -4,29 +4,29 @@
  * @return {Function}
  */
 var timeLimit = function(fn, t) {
-    /*
     return async function(...args) {
-       const fnPromise = fn(...args);
+        // Promise.race: 여러 Promise 중 가장 먼저 성공 또는 실패되는 값을 반환
+        return Promise.race([
 
-       const timeoutPromise = new Promise((_, reject) => {
-            setTimeout(() => {
-                reject('Time Limit Exceeded')
-            }, t);
-       })
+            // 원래 함수 실행
+            (async () => {
+                try {
+                    // fn 이 동기적으로 throw 할 수도 있으므로 try/catch 필요
+                    return await fn(...args);
+                } catch (err) {
+                    // fn 내부 에러는 그대로 reject
+                    throw err;
+                }
+            })(),
 
-       return Promise.race([fnPromise, timeoutPromise]);
-    */
-
-    return async function(...args) {
-        return new Promise((resolve, reject) => {
-            const timeoutId = setTimeout(() => reject('Time Limit Exceeded'), t)
-
-            fn(...args)
-                .then(result => resolve(result))
-                .catch(error => reject(error))
-                .finally(() => clearTimeout(timeoutId))
-        });
-    }
+            // 시간 초과용 Promise
+            new Promise((_, reject) => {
+                setTimeout(() => {
+                    reject("Time Limit Exceeded");
+                }, t);
+            })
+        ]);
+    };
 };
 
 /**
