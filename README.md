@@ -349,6 +349,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SpotLight226/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SpotLight226/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/SpotLight226/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/SpotLight226/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Simulation
 |  |
 | ------- |
@@ -649,6 +650,7 @@
 | [1656-count-good-triplets](https://github.com/SpotLight226/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SpotLight226/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SpotLight226/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/SpotLight226/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2998-count-symmetric-integers](https://github.com/SpotLight226/LeetCode/tree/master/2998-count-symmetric-integers) |
 ## Combinatorics
 |  |
@@ -658,6 +660,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SpotLight226/LeetCode/tree/master/0292-nim-game) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/SpotLight226/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Game Theory
 |  |
 | ------- |
