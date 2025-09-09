@@ -10,13 +10,17 @@ var ArrayWrapper = function(nums) {
  * @return {number}
  */
 ArrayWrapper.prototype.valueOf = function() {
-    return this.nums.reduce((sum, num) => sum + num, 0);1
+    // 더하기 
+    // sum에 num을 다 더하기
+    return this.nums.reduce((sum, num) => sum + num, 0);
 }
 
 /**
  * @return {string}
  */
 ArrayWrapper.prototype.toString = function() {
+    // String => 문장형태로 나열
+    // 각 num 을 , 을 사이에 넣어서 묶기
     return `[${this.nums.join(',')}]`;
 }
 
