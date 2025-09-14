@@ -134,6 +134,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/SpotLight226/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/SpotLight226/LeetCode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/SpotLight226/LeetCode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SpotLight226/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SpotLight226/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SpotLight226/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SpotLight226/LeetCode/tree/master/0189-rotate-array) |
@@ -255,6 +256,7 @@
 | [0067-add-binary](https://github.com/SpotLight226/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SpotLight226/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SpotLight226/LeetCode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SpotLight226/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/SpotLight226/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/SpotLight226/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SpotLight226/LeetCode/tree/master/0202-happy-number) |
@@ -289,6 +291,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/SpotLight226/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SpotLight226/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SpotLight226/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SpotLight226/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/SpotLight226/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/SpotLight226/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/SpotLight226/LeetCode/tree/master/0225-implement-stack-using-queues) |
