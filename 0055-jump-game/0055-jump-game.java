@@ -1,6 +1,7 @@
 class Solution {
     public boolean canJump(int[] nums) {
-        int last = nums.length - 1; // 배열의 가장 끝
+        // 가야할 길이
+        int last = nums.length - 1; 
 
         for(int i = nums.length - 2; i >= 0; i--) {
             if(i + nums[i] >= last) {
