@@ -1,5 +1,9 @@
+# Write your MySQL query statement below
 SELECT customer_id
 FROM Customer
 GROUP BY customer_id
-HAVING COUNT(DISTINCT(product_key)) = (SELECT COUNT(*) FROM Product);
--- 손님 id로 그룹화해서 각 손님당 제품 키의 개수가 Product 테이블의 총 제품키 개수와 같은 것만
+HAVING COUNT(DISTINCT product_key) = (SELECT COUNT(DISTINCT product_key)
+                                      FROM Product)
+
+-- GROUP BY 의 조건절인 HAVING 에서 Customer 테이블의 중첩을 제거한(DISTINCT) product_key 의 개수가
+-- Product 테이블에서 중첩을 제거한(DISTINCT) product_key 의 개수가 같은 customer_id 만을 선택
