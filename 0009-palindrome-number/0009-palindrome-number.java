@@ -1,18 +1,20 @@
 class Solution {
     public boolean isPalindrome(int x) {
-       if(x < 0 || (x % 10 == 0 && x != 0)) {
+        // 음수는 Palindrome이 될 수 없음
+        if(x < 0) {
             return false;
-       }
+        }
 
-       int reverse = 0;
+        // 역수와 x 를 비교하기 위해서 x 의 값을 저장
+        int reverse = 0;
+        int xCopy = x;
 
-        // reverse 가 x의 길이 반 이상을 하지 않게 범위 지정
-       while(x > reverse) {
-            // 121 = > reverse = 1, x = 12 => reverse = 12, x = 1
-            reverse = reverse * 10 + x % 10;
+        while(x > 0) {
+            // 역수의 1의 자리를 10의 자리로 올리고, x 의 끝자리 수를 더한다
+            reverse = (reverse * 10) + (x % 10);
             x /= 10;
-       }
-        // 1 == 12 (X) || 1 == 12 / 10 (1) (O) -> return true;
-       return x == reverse || x == reverse / 10;
+        }
+
+        return reverse == xCopy;
     }
 }
