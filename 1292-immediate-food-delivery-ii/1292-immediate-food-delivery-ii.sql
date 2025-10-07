@@ -1,24 +1,12 @@
-/*
-SELECT ROUND(SUM(CASE
-                     WHEN order_date = customer_pref_delivery_date
-                     THEN 1
-                     ELSE 0
-                END) / COUNT(customer_id) * 100, 2) AS immediate_percentage
-                -- SUM 에 조건으로(CASE WHEN THEN) 주문 날짜와 배달 날짜가 같으면 1, 아니면 0으로 지정한다
-                -- 주문 날짜와 배달 날짜가 같은 사람 / 전체 손님 수 * 100을 해서 백분율로 나타내고
-                -- 2번째 자리까지 반올림한다
+# Write your MySQL query statement below
+SELECT ROUND(AVG(order_date = customer_pref_delivery_date) * 100, 2) AS immediate_percentage
 FROM Delivery
--- 조건으로 서브쿼리에 손님 ID 와 최소 ORDER_DATE를 지정한다
 WHERE (customer_id, order_date) IN (SELECT customer_id,
                                            MIN(order_date)
                                     FROM Delivery
                                     GROUP BY customer_id)
-                                    */
+-- Delivery 테이블에서 최초 주문을 걸러내기 위해서 customer_id, order_date 가
+-- 가장 작은 CTE 에 포함되어 있는 것만을 조건으로 찾는다
 
--- avg 이용
-SELECT ROUND(AVG(order_date = customer_pref_delivery_date) * 100, 2) AS immediate_percentage
-FROM delivery
-WHERE (customer_id, order_date) IN (SELECT customer_id,
-                                           MIN(order_date) 
-                                    FROM delivery
-                                    GROUP BY customer_id)
+-- 즉시 배달찾기 위해 주문 날짜와 배달 완료 날짜가 같은 것만에서 평균(AVG)을 구하고,
+-- 비율을 구하기 위해서 100을 곱하고, 소수점(ROUND) 2자리 까지만 구한다
