@@ -1,22 +1,20 @@
 # Write your MySQL query statement below
--- 가장 많은 영화를 평가한 유저
 (SELECT u.name AS results
-FROM Users u
-JOIN MovieRating m
-ON u.user_id = m.user_id
-GROUP BY u.user_id
-ORDER BY COUNT(m.rating) DESC, -- 개수를 내림 차순으로 정렬해서 가장 많이 한 사람 찾기
-         u.name -- 개수 같으면 알파벳 순 정렬로 확인
-LIMIT 1)
-
+ FROM Users AS u
+ JOIN Movierating AS mr
+   ON u.user_id = mr.user_id
+ GROUP BY u.user_id
+ ORDER BY COUNT(u.user_id) DESC, u.name ASC 
+ LIMIT 1)
+-- Users 와 Movierating 테이블을 조인해서 가장 많은 평가를 한 사람을 찾는다
 UNION ALL
 
-(SELECT mo.title AS results
-FROM Movies mo
-JOIN MovieRating mr
-ON mo.movie_id = mr.movie_id
-WHERE mr.created_at LIKE '2020-02%' -- 2020-02 에 평가한 날짜
-GROUP BY mo.movie_id
-ORDER BY AVG(mr.rating) DESC, -- 영화 평점 평균
-         mo.title
-LIMIT 1)
+(SELECT m.title AS results
+ FROM Movies AS m
+ JOIN Movierating AS mr
+   ON m.movie_id=mr.movie_id
+ WHERE mr.created_at BETWEEN '2020-02-01' AND '2020-02-29'
+ GROUP BY m.movie_id, m.title
+ ORDER BY AVG(mr.rating) DESC, m.title ASC 
+ LIMIT 1)
+ -- 2020-02 에 평가를 준 것만 찾아서, 가장 높은 평균 평점 영화의 이름을 찾는다
