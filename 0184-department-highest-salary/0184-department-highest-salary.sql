@@ -13,6 +13,7 @@ WHERE e.salary = (SELECT MAX(salary)
 -- salary 에서 조건을 departmentId 가 같은 것들 중에서 최고 값을 가진 것들만 선택
 */
 
+-- 위의 WHERE 절에 서브쿼리를 넣는 것보다 CTE, JOIN 절에 CTE 사용이 더 빠름
 /*
 -- CTE 사용
 WITH max_salary AS (SELECT departmentId,
