@@ -1,11 +1,12 @@
-SELECT D.name AS Department,
-       E.name AS Employee,
-       E.salary AS Salary
-FROM Employee AS E
-JOIN Department AS D
-  ON E.departmentId = D.id
-WHERE E.salary = (SELECT MAX(salary)
+# Write your MySQL query statement below
+SELECT d.name AS Department,
+       e.name AS Employee,
+       e.salary AS Salary
+FROM Employee AS e
+JOIN Department AS d
+  ON e.departmentId = d.id
+WHERE e.salary = (SELECT MAX(salary)
                   FROM Employee
-                  WHERE departmentId = E.departmentId)
--- 조건에 서브 쿼리로 WHERE departmentId = E.departmentId)을 조건으로
--- E에 동일한 부서 ID 를 가진 행들의 MAX를 각각 구하여 각 부서별로 최대 급여를 조건으로 나올 수 있게 한다
+                  WHERE departmentId = e.departmentId)
+-- 부서 이름을 쓰기위해 Employee 테이블과 Department 테이블을 조인하고
+-- salary 에서 조건을 departmentId 가 같은 것들 중에서 최고 값을 가진 것들만 선택
