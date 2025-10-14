@@ -14,6 +14,7 @@ WHERE e.salary = (SELECT MAX(salary)
 */
 
 -- 위의 WHERE 절에 서브쿼리를 넣는 것보다 CTE, JOIN 절에 CTE 사용이 더 빠름
+-- WHERE 절 안의 상관 서브쿼리보다는, CTE나 JOIN 절에 비상관 서브쿼리를 두는 게 대부분의 경우 더 효율적
 /*
 -- CTE 사용
 WITH max_salary AS (SELECT departmentId,
