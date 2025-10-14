@@ -13,6 +13,8 @@ WHERE e.salary = (SELECT MAX(salary)
 -- salary 에서 조건을 departmentId 가 같은 것들 중에서 최고 값을 가진 것들만 선택
 */
 
+/*
+-- CTE 사용
 WITH max_salary AS (SELECT departmentId,
                            MAX(salary) AS highest
                     FROM Employee
@@ -26,4 +28,19 @@ JOIN max_salary AS m
   ON e.departmentId = m.departmentId
 JOIN Department AS d
   ON e.departmentId = d.id
+WHERE e.salary = m.highest
+*/
+
+-- 서브쿼리 사용
+SELECT d.name AS Department,
+       e.name AS Employee,
+       e.salary AS Salary
+FROM Employee e
+JOIN Department d
+  ON e.departmentId = d.id
+JOIN (SELECT departmentId,
+             MAX(salary) AS highest
+      FROM Employee
+      GROUP BY departmentId) m
+  ON e.departmentId = m.departmentId
 WHERE e.salary = m.highest
