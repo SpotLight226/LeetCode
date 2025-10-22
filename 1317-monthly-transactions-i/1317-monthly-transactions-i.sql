@@ -1,11 +1,13 @@
-SELECT DATE_FORMAT(trans_date, '%Y-%m') AS month,
-       country,
-       COUNT(id) AS trans_count,
-       -- IF(컬럼 조건, 조건 맞으면 실행할 값, 조건 틀리면 실행할 값)
-       -- state가 approved 면 1 아니면 0으로 더한다
-       SUM(IF(state = 'approved', 1, 0)) AS approved_count,
-       SUM(AMOUNT) AS trans_total_amount, -- amount의 합
-       -- state가 approved 면 amount를 더하고, 아니면 0을 더함
-       SUM(IF(state = 'approved', amount, 0)) AS approved_total_amount 
+# Write your MySQL query statement below
+SELECT DATE_FORMAT(trans_date, '%Y-%m') AS month, -- 날짜를 년-월 형식으로
+       country, -- 나라
+       COUNT(*) AS trans_count, -- 나타난 개수
+       SUM(CASE WHEN state = 'approved' THEN 1
+                ELSE 0
+           END) AS approved_count, -- approved 일 때, 1 로 취급, 아니면 0으로 해서 더하기
+       SUM(amount) AS trans_total_amount, -- amount 의 합
+       SUM(CASE WHEN state = 'approved' THEN amount
+                ELSE 0
+           END) AS approved_total_amount -- approved 일 때, amount 를 합치고, 아니면 0
 FROM Transactions
-GROUP BY country, MONTH
+GROUP BY month, country
