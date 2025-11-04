@@ -1,3 +1,4 @@
-SELECT DISTINCT(tweet_id) -- id에서 중복 제거
+# Write your MySQL query statement below
+SELECT tweet_id
 FROM Tweets
-WHERE LENGTH(content) > 15 -- content의 길이가 15이상 
+WHERE LENGTH(content) > 15
