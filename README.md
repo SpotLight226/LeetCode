@@ -73,6 +73,7 @@
 | [2087-confirmation-rate](https://github.com/SpotLight226/LeetCode/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/SpotLight226/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/SpotLight226/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+| [3497-analyze-subscription-conversion](https://github.com/SpotLight226/LeetCode/tree/master/3497-analyze-subscription-conversion) |
 | [3782-find-valid-emails](https://github.com/SpotLight226/LeetCode/tree/master/3782-find-valid-emails) |
 | [3816-dna-pattern-recognition](https://github.com/SpotLight226/LeetCode/tree/master/3816-dna-pattern-recognition) |
 ## String
