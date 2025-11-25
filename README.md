@@ -75,6 +75,7 @@
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/SpotLight226/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3497-analyze-subscription-conversion](https://github.com/SpotLight226/LeetCode/tree/master/3497-analyze-subscription-conversion) |
 | [3564-seasonal-sales-analysis](https://github.com/SpotLight226/LeetCode/tree/master/3564-seasonal-sales-analysis) |
+| [3570-find-books-with-no-available-copies](https://github.com/SpotLight226/LeetCode/tree/master/3570-find-books-with-no-available-copies) |
 | [3782-find-valid-emails](https://github.com/SpotLight226/LeetCode/tree/master/3782-find-valid-emails) |
 | [3816-dna-pattern-recognition](https://github.com/SpotLight226/LeetCode/tree/master/3816-dna-pattern-recognition) |
 ## String
