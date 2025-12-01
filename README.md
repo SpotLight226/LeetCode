@@ -77,6 +77,7 @@
 | [3521-find-product-recommendation-pairs](https://github.com/SpotLight226/LeetCode/tree/master/3521-find-product-recommendation-pairs) |
 | [3564-seasonal-sales-analysis](https://github.com/SpotLight226/LeetCode/tree/master/3564-seasonal-sales-analysis) |
 | [3570-find-books-with-no-available-copies](https://github.com/SpotLight226/LeetCode/tree/master/3570-find-books-with-no-available-copies) |
+| [3580-find-consistently-improving-employees](https://github.com/SpotLight226/LeetCode/tree/master/3580-find-consistently-improving-employees) |
 | [3782-find-valid-emails](https://github.com/SpotLight226/LeetCode/tree/master/3782-find-valid-emails) |
 | [3816-dna-pattern-recognition](https://github.com/SpotLight226/LeetCode/tree/master/3816-dna-pattern-recognition) |
 ## String
