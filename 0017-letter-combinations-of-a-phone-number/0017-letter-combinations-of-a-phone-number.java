@@ -1,11 +1,23 @@
 class Solution {
+    private void process(String digits, int idx, StringBuilder sb, List<String> result, Map<Character, String> digitToLetters) {
+        if(idx == digits.length()) {
+            result.add(sb.toString());
+            return;
+        }
+
+        String str = digitToLetters.get(digits.charAt(idx));
+        for(char c : str.toCharArray()) {
+            sb.append(c);
+            process(digits, idx + 1, sb, result, digitToLetters);
+            sb.deleteCharAt(sb.length() - 1);
+        }
+    }
+
     public List<String> letterCombinations(String digits) {
-        List<String> answer = new ArrayList<>();
+        List<String> result = new ArrayList<>();
 
-        // 입력이 없거나(null), 입력이 안되있다면 그냥 빈 배열 리턴
-        if(digits == null || digits.length() == 0) return answer;
+        if(digits == null || digits.length() == 0) { return result; }
 
-        // Map에서 key 는 각 숫자로 value를 각 숫자에 해당하는 문자열
         Map<Character, String> digitToLetters = new HashMap<>();
         digitToLetters.put('2', "abc");
         digitToLetters.put('3', "def");
@@ -16,25 +28,8 @@ class Solution {
         digitToLetters.put('8', "tuv");
         digitToLetters.put('9', "wxyz");
 
-        backtrack(digits, 0, new StringBuilder(), answer, digitToLetters);
+        process(digits, 0, new StringBuilder(), result, digitToLetters);
 
-        return answer;
+        return result;
     }
-
-    private void backtrack(String digits, int idx, StringBuilder sb,
-                           List<String> answer, Map<Character, String> digitToLetters) {
-
-        if (idx == digits.length()) {
-            answer.add(sb.toString());
-            return;
-        }
-        
-        String letters = digitToLetters.get(digits.charAt(idx));
-
-        for (char letter : letters.toCharArray()) {
-            sb.append(letter);
-            backtrack(digits, idx + 1, sb, answer, digitToLetters);
-            sb.deleteCharAt(sb.length() - 1);
-        }
-    } 
 }
