@@ -1,22 +1,23 @@
 class Solution {
     public int mySqrt(int x) {
-        if(x == 0 || x == 1) return x;
+        if(x < 2) {
+            return x;
+        }
 
         // 2진 검색
         int l = 1;
-        int r = x;
+        int r = x / 2;
 
         while(l <= r) {
-            // 중간 값
-            int m = (r - l) / 2 + l;
+            int mid = l + (r - l) / 2;
+            long square = (long) mid * mid; // 제곱은 int의 크기를 넘을 수 있기에 long 으로
 
-            // 중간 값이 x를 m으로 나눈 몫보다 크다면 오른쪽을 변경 
-            if(m > x / m) {
-                r = m - 1;
-            } else if (m < x / m) { // 작다면 왼쪽 변경
-                l = m + 1;
-            } else {
-                return m;
+            if(square == x) { // 제곱이 x 와 같다면, mid가 제곱근
+                return mid;
+            } else if (square < x) { // 제곱이 x 보다 작다면, l 을 옮겨서 왼쪽 값 크게
+                l = mid + 1;
+            } else { // 제곱이 x 보다 크다면, r 을 옮겨서 오른쪽 값 작게
+                r = mid - 1;
             }
         }
 
