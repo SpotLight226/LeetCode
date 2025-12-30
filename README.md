@@ -184,6 +184,7 @@
 | [1293-three-consecutive-odds](https://github.com/SpotLight226/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/SpotLight226/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SpotLight226/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SpotLight226/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SpotLight226/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SpotLight226/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1524-string-matching-in-an-array](https://github.com/SpotLight226/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -407,6 +408,7 @@
 | [0268-missing-number](https://github.com/SpotLight226/LeetCode/tree/master/0268-missing-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/SpotLight226/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SpotLight226/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SpotLight226/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SpotLight226/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/SpotLight226/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/SpotLight226/LeetCode/tree/master/2690-house-robber-iv) |
@@ -635,6 +637,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/SpotLight226/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/SpotLight226/LeetCode/tree/master/0048-rotate-image) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SpotLight226/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/SpotLight226/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/SpotLight226/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/SpotLight226/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
