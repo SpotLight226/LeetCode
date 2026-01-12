@@ -181,6 +181,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SpotLight226/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/SpotLight226/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SpotLight226/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1266-minimum-time-visiting-all-points](https://github.com/SpotLight226/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/SpotLight226/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/SpotLight226/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SpotLight226/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -297,6 +298,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/SpotLight226/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/SpotLight226/LeetCode/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SpotLight226/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1266-minimum-time-visiting-all-points](https://github.com/SpotLight226/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SpotLight226/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SpotLight226/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SpotLight226/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -726,4 +728,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/SpotLight226/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/SpotLight226/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
